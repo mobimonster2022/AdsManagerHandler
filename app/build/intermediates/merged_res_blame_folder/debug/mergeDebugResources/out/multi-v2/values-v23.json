@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.swastikalabs.adshandlerdemo.app-mergeDebugResources-35:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\9.3.0\\transforms\\4ed0863c511b6860ef1ddb211d5e8177\\workspace\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
